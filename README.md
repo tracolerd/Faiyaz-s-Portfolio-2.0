@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240B20,50:8B0032,100:160B18&height=190&section=header&text=Nurul%20Faiyaz%20%C2%B7%20Portfolio%202.0&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=Liquid-glass%20inspired%20React%20portfolio%20with%20motion%20and%203D%20details&descAlignY=61&descSize=15" alt="Nurul Faiyaz · Portfolio 2.0 animated project banner" width="100%" />
 </p>
+<h1 align="center">Nurul Faiyaz — Portfolio 2.0</h1>
+
 
 <div align="center">
 
