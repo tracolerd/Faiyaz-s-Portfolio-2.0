@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240B20,50:8B0032,100:160B18&height=185&section=header&text=Portfolio%202.0&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=React%20%7C%20Liquid%20Glass%20%7C%203D%20Motion&descAlignY=61&descSize=15" alt="Portfolio 2.0 animated banner" width="100%" />
+</p>
+
 # Nurul Faiyaz — Portfolio Website
 
 Premium personal portfolio with iOS 26 Liquid Glass design, 3D elements (Three.js), and smooth animations (Framer Motion).
