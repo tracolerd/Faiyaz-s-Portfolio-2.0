@@ -1,20 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240B20,50:8B0032,100:160B18&height=190&section=header&text=Nurul%20Faiyaz%20%C2%B7%20Portfolio%202.0&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=Liquid-glass%20inspired%20React%20portfolio%20with%20motion%20and%203D%20details&descAlignY=61&descSize=15" alt="Nurul Faiyaz · Portfolio 2.0 animated project banner" width="100%" />
+  <img src="assets/readme-hero.svg" alt="Nurul Faiyaz · Portfolio 2.0 — custom animated project banner" width="100%" />
 </p>
-<h1 align="center">Nurul Faiyaz — Portfolio 2.0</h1>
 
+<h1 align="center">Nurul Faiyaz · Portfolio 2.0</h1>
 
-<div align="center">
+<p align="center">
+  <strong>A glass-inspired, motion-rich portfolio concept.</strong><br/>
+  A React single-page portfolio combining animated section transitions, 3D visuals and glassmorphism-inspired interface details.
+</p>
 
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=111827)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
-[![Framer Motion](https://img.shields.io/badge/Motion-Framer-0055FF?logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Three.js](https://img.shields.io/badge/3D-Three.js-black?logo=threedotjs&logoColor=white)](https://threejs.org/)
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-UI-149ECA?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React — UI" /></a>
+  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-Build_tooling-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite — Build tooling" /></a>
+  <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-Animation-8B5CF6?style=for-the-badge&amp;logo=framer&amp;logoColor=white" alt="Framer Motion — Animation" /></a>
+  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-3D-111827?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js — 3D" /></a>
+</p>
 
-**A premium personal portfolio concept with maroon accents, glass-like surfaces, motion, and 3D hero visuals.**
+<p align="center">
+  <a href="#project-details">Overview</a> · <a href="#project-setup">Get started</a> · <a href="#creator-developer-maintainer">Creator</a>
+</p>
 
-</div>
+---
 
+<a id="project-details"></a>
 ## Overview
 
 Portfolio 2.0 is a React single-page site designed to present profile, software quality assurance, cloud security, and cybersecurity interests through a polished, interactive interface.
@@ -32,6 +40,7 @@ The application source is currently located in the `Faiyaz Portfolio 2.0/` subdi
 | Icons | Lucide React |
 | Hosting configuration | Netlify SPA routing via `netlify.toml` |
 
+<a id="project-setup"></a>
 ## Quick start
 
 From the repository root:
@@ -80,20 +89,22 @@ This repository is a front-end portfolio project. Content, certificates, organiz
 ---
 ---
 
+---
+
 ## Creator, Developer & Maintainer
 
-**Created, designed, developed, and maintained by [Nurul Faiyaz](https://github.com/tracolerd).**
+**Created, designed, developed, documented, and maintained by [Nurul Faiyaz](https://github.com/tracolerd).**
 
-This project is independently built and maintained by Nurul Faiyaz. The project's design, implementation, and documentation are his work.
+Designed, implemented, documented, and maintained independently by Nurul Faiyaz.
 
 <p align="center">
-  <a href="https://www.facebook.com/faiyaz.888"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/tracolerd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/faiyaz-xyz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/faiyaz_explores"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/tracolerd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:scrollfaiyaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://nurul-faiyaz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+  <a href="https://www.facebook.com/faiyaz.888"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/tracolerd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/faiyaz-xyz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/faiyaz_explores"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://github.com/tracolerd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:scrollfaiyaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://nurul-faiyaz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website" /></a>
 </p>
 
 <p align="center">
@@ -105,3 +116,7 @@ This project is independently built and maintained by Nurul Faiyaz. The project'
   <a href="mailto:scrollfaiyaz@gmail.com">Email</a> ·
   <a href="https://nurul-faiyaz.netlify.app/">Website</a>
 </p>
+
+## License
+
+See [LICENSE](LICENSE) for the license terms.
